@@ -158,7 +158,3 @@ If you prefer a static image, see:
 - Problem statement: `docs/DigitalSystems1_Project_2023.pdf`  
 - Project report (FA): `docs/Project_Report_FA.pdf`
 
----
-
-## 🖊️ License
-MIT (or your preferred license).
