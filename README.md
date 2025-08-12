@@ -13,6 +13,7 @@ The machine accepts 5¢, 10¢, and 25¢ coins, shows the running total on dual s
 - **Mealy** finite state machine implementation
 - **Dual 7-segment** display for the inserted amount
 - **Change return** after vend
+- **The red seven-segment** display shows the total amount of money inserted, while **the blue seven-segment** display shows the amount of change returned.
 - Fully **simulated in Proteus**
 
 ---
